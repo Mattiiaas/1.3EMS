@@ -1,4 +1,6 @@
 # Pipeline de Integración Continua con GitHub Actions
+[![Build and test of Java Project](https://github.com/Mattiiaas/1.3EMS/actions/workflows/main.yml/badge.svg)]
+(https://github.com/Mattiiaas/1.3EMS/actions/workflows/main.yml)
 
 Repositorio para el laboratorio de CI con GitHub Actions
 
